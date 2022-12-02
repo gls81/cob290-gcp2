@@ -1,7 +1,7 @@
 DROP DATABASE cob290_demo;
-CREATE DATABASE cob290_testing;
+CREATE DATABASE cob290_demo;
 
-use cob290_testing;
+use cob290_demo;
 
 CREATE TABLE Hardware (
     HardwareID int not null AUTO_INCREMENT,
